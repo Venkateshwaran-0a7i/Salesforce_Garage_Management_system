@@ -12,4 +12,4 @@ Team member : P Dineshkumar
 
 Team member : S Ranivelunatchiyar
 
-You can review full procedure and documentation here: https://drive.google.com/drive/u/2/folders/1vRWfNQQQe2TEPqY2gXWjcViOiay5h2fS
+You can review full procedure and documentation here: https://drive.google.com/file/d/1olzF5kpjvUtqBBHbuHlq-4PDn-9h-LHQ/view?usp=sharing
